@@ -1,4 +1,8 @@
-#Brigette's Notes: My fork for Treehouse Exprerss Basics class.  Due to learning and praticing git cloning and branches with github while at beginning of the class my resporisty is complete for the follow branches: SettingUpStaticServer, addStatictoLayout, listsInJadeTemps, logicInJadeTemps, & whereFromHere. 
+#Brigette's Notes: 
+
+```
+My fork for Treehouse Exprerss Basics class.  Due to learning and praticing git cloning and branches with github while at beginning of the class my resporisty is complete for the follow branches: SettingUpStaticServer, addStatictoLayout, listsInJadeTemps, logicInJadeTemps, & whereFromHere. 
+```
 
 #Express Basics Demo Site
 
