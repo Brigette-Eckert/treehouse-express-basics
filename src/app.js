@@ -14,7 +14,9 @@ app.set('view engine', 'jade');
 app.set('views', __dirname + '/templates');
 
 app.get('/', function(req, res){
-	res.render('index');
+	var path = req.path;
+	// res.local.path = path;
+	res.render('index', {path: path});
 });
 
 app.get('/blog/:title?', function(req, res){ 
